@@ -3,7 +3,7 @@
 ### **NAME:** A JEEVITH
 ### **DEPARTMENT:**  BTECH.AI&ML
 ### **ROLL NO:**  212223240059
-### **DATE OF EXPERIMENT:** 10-04-2025
+### **DATE OF EXPERIMENT:** 15-04-2025
 
 ## **AIM:**  
 To interface an **MPU6050 6-Axis Accelerometer & Gyroscope Sensor** with the **Raspberry Pi Pico** and display the sensor readings using MicroPython.
